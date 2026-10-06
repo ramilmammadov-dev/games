@@ -1,0 +1,69 @@
+{
+  "apps": [
+    {
+      "id": 6759178913,
+      "name": "Singularity: Chain Reaction",
+      "sub": "Explosive chain reaction puzzle",
+      "bundle": "com.singularity.game",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/2f/8b/b52f8b0e-df87-c76a-19d0-11a4e66bfdc5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/256x256bb.jpg",
+      "tags": [
+        "puzzle",
+        "chain",
+        "physics",
+        "casual"
+      ]
+    },
+    {
+      "id": 6759198985,
+      "name": "Stack Master",
+      "sub": "Stack blocks into a giant tower",
+      "bundle": "com.stackmaster.app",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/54/fa/db54fa84-d447-a05e-4429-499380af14cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/256x256bb.jpg",
+      "tags": [
+        "arcade",
+        "stack",
+        "tap",
+        "casual"
+      ]
+    },
+    {
+      "id": 6758597158,
+      "name": "Neon Dash",
+      "sub": "Fast neon endless runner",
+      "bundle": "com.rm.neondash",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/76/4a/29764ab9-d3b0-5591-7b52-25c27adadc54/AppIcon-0-0-1x_U007epad-0-1-85-220.png/256x256bb.jpg",
+      "tags": [
+        "arcade",
+        "runner",
+        "neon",
+        "action"
+      ]
+    },
+    {
+      "id": 6759008016,
+      "name": "Magic Pet Island",
+      "sub": "Raise cute magical pets",
+      "bundle": "com.magicpetisland.game",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ea/e0/b3eae0de-326e-3bd5-4b75-6e43b2a57ce2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/256x256bb.jpg",
+      "tags": [
+        "pet",
+        "idle",
+        "simulation",
+        "casual"
+      ]
+    },
+    {
+      "id": 6759206581,
+      "name": "Rainbow Rescue",
+      "sub": "Fly and bring the colors back",
+      "bundle": "com.rainbowrescue.adventure",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ba/81/e1ba810b-0949-08fd-7d58-50b62e33d0fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/256x256bb.jpg",
+      "tags": [
+        "arcade",
+        "flying",
+        "collect",
+        "casual"
+      ]
+    }
+  ]
+}
