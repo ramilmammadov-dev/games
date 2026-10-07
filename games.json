@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820146717,
+      "name": "Lift Line",
+      "sub": "Sort Skiers, Fill Gondolas",
+      "bundle": "com.boardingpuzzle.liftline",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/liftline.png?v=1",
+      "tags": [
+        "puzzle",
+        "ski",
+        "sort",
+        "casual",
+        "gondola",
+        "crowd"
+      ]
+    },
+    {
       "id": 6820103214,
       "name": "Skyburst",
       "sub": "Tap Away Logic & Brain Teaser",
