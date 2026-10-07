@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820084261,
+      "name": "Pixel Harvest",
+      "sub": "Crop Art Farm Puzzle Game",
+      "bundle": "com.colorsort.pixelharvest",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/pixelharvest.png?v=1",
+      "tags": [
+        "puzzle",
+        "color",
+        "sort",
+        "pixel",
+        "farm",
+        "relax"
+      ]
+    },
+    {
       "id": 6820048298,
       "name": "Calm Lake",
       "sub": "Cast, Reel & Catch Rare Fish",
