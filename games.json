@@ -1,68 +1,355 @@
 {
   "apps": [
     {
-      "id": 6759178913,
-      "name": "Singularity: Chain Reaction",
-      "sub": "Explosive chain reaction puzzle",
-      "bundle": "com.singularity.game",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/2f/8b/b52f8b0e-df87-c76a-19d0-11a4e66bfdc5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/256x256bb.jpg",
+      "id": 6819817638,
+      "name": "Night Courier",
+      "sub": "Cross the Traffic and Deliver",
+      "bundle": "com.citycourier.nightcourier",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/nightcourier.png?v=20261007a",
+      "tags": [
+        "arcade",
+        "endless",
+        "city",
+        "traffic",
+        "reflex",
+        "neon"
+      ]
+    },
+    {
+      "id": 6819873265,
+      "name": "Hill Rider",
+      "sub": "Physics Car Racing Adventure",
+      "bundle": "com.offroad.hillrider",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/hillrider.png?v=20261007a",
+      "tags": [
+        "racing",
+        "physics",
+        "car",
+        "arcade",
+        "driving",
+        "offroad"
+      ]
+    },
+    {
+      "id": 6819872650,
+      "name": "Sinkhole",
+      "sub": "Drag the Hole, Eat It All",
+      "bundle": "com.citysinkhole.sinkhole",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/sinkhole.png?v=20261007a",
+      "tags": [
+        "arcade",
+        "casual",
+        "city",
+        "physics",
+        "satisfying",
+        "io"
+      ]
+    },
+    {
+      "id": 6819872421,
+      "name": "Drift Line",
+      "sub": "Hold to Slide Every Corner",
+      "bundle": "com.cardrift.driftline",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/driftline.png?v=20261007a",
+      "tags": [
+        "racing",
+        "drift",
+        "cars",
+        "one touch",
+        "endless",
+        "arcade"
+      ]
+    },
+    {
+      "id": 6819874040,
+      "name": "Color Gate",
+      "sub": "Tap, Match the Color & Fly Up",
+      "bundle": "com.colorjump.colorgate",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/colorgate.png?v=20261007a",
+      "tags": [
+        "arcade",
+        "reflex",
+        "neon",
+        "casual",
+        "skill",
+        "endless"
+      ]
+    },
+    {
+      "id": 6819874293,
+      "name": "Nard Club",
+      "sub": "Classic Tavla and Nardy Dice",
+      "bundle": "com.backgammon.nardclub",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/nardclub.png?v=20261007a",
+      "tags": [
+        "board",
+        "classic",
+        "strategy",
+        "dice",
+        "backgammon",
+        "offline"
+      ]
+    },
+    {
+      "id": 6819873694,
+      "name": "Piano Glow",
+      "sub": "Tap the Tiles, Play the Song",
+      "bundle": "com.pianomusic.pianoglow",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/pianoglow.png?v=20261007a",
+      "tags": [
+        "music",
+        "rhythm",
+        "piano",
+        "arcade",
+        "relax",
+        "casual"
+      ]
+    },
+    {
+      "id": 6819872037,
+      "name": "Car Out",
+      "sub": "Unblock Cars & Clear the Lot",
+      "bundle": "com.parkingpuzzle.carout",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/carout.png?v=20261007a",
       "tags": [
         "puzzle",
-        "chain",
+        "cars",
+        "casual",
+        "logic",
+        "relax",
+        "traffic"
+      ]
+    },
+    {
+      "id": 6819871656,
+      "name": "Final Kick",
+      "sub": "Curl It Past the Wall",
+      "bundle": "com.footballfreekick.finalkick",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/finalkick.png?v=20261007a",
+      "tags": [
+        "sports",
+        "football",
+        "soccer",
+        "physics",
+        "swipe",
+        "career"
+      ]
+    },
+    {
+      "id": 6819809942,
+      "name": "Vault Breaker",
+      "sub": "Code Breaking Logic Heist",
+      "bundle": "com.safecracker.vaultbreaker",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/vaultbreaker.png?v=20261007a",
+      "tags": [
+        "logic",
+        "puzzle",
+        "heist",
+        "code",
+        "brain",
+        "deduction"
+      ]
+    },
+    {
+      "id": 6819803320,
+      "name": "Blast Engineer",
+      "sub": "Physics Building Destruction",
+      "bundle": "com.demolition.blastengineer",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/blastengineer.png?v=20261007a",
+      "tags": [
+        "physics",
+        "demolition",
+        "puzzle",
+        "destruction",
+        "strategy",
+        "engineering"
+      ]
+    },
+    {
+      "id": 6819758482,
+      "name": "Solitaire Voyage",
+      "sub": "Classic Patience Card Game",
+      "bundle": "com.ramilmammadov.solitairevoyage",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/solitairevoyage.png?v=20261007a",
+      "tags": [
+        "cards",
+        "solitaire",
+        "classic",
+        "puzzle",
+        "relax",
+        "board"
+      ]
+    },
+    {
+      "id": 6819758368,
+      "name": "Bubble Bay",
+      "sub": "Aim, Match 3 & Pop the Colors",
+      "bundle": "com.ramilmammadov.bubblebay",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/bubblebay.png?v=20261007a",
+      "tags": [
+        "bubble",
+        "shooter",
+        "match3",
+        "casual",
+        "puzzle",
+        "arcade"
+      ]
+    },
+    {
+      "id": 6819757990,
+      "name": "Sudoku Clean",
+      "sub": "Brain Training Number Game",
+      "bundle": "com.ramilmammadov.sudokuclean",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/sudokuclean.png?v=20261007a",
+      "tags": [
+        "sudoku",
+        "puzzle",
+        "logic",
+        "numbers",
+        "brain",
+        "classic"
+      ]
+    },
+    {
+      "id": 6819757926,
+      "name": "Mahjong Bloom",
+      "sub": "Relaxing Classic Pair Puzzle",
+      "bundle": "com.ramilmammadov.mahjongbloom",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/mahjongbloom.png?v=20261007a",
+      "tags": [
+        "mahjong",
+        "puzzle",
+        "board",
+        "relax",
+        "classic",
+        "match"
+      ]
+    },
+    {
+      "id": 6819757597,
+      "name": "Paint Claim",
+      "sub": "Draw Loops & Conquer the Map",
+      "bundle": "com.ramilmammadov.paintclaim",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/paintclaim.png?v=20261007a",
+      "tags": [
+        "io",
+        "arcade",
+        "territory",
+        "casual",
+        "strategy"
+      ]
+    },
+    {
+      "id": 6819726344,
+      "name": "Helix Drop",
+      "sub": "Twist, Bounce & Fall Through",
+      "bundle": "com.ramilmammadov.helixdrop",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/helixdrop.png?v=20261007a",
+      "tags": [
+        "arcade",
+        "ball",
+        "tap",
+        "neon",
+        "casual"
+      ]
+    },
+    {
+      "id": 6819726036,
+      "name": "Ludo Royale",
+      "sub": "Classic Family Dice Race",
+      "bundle": "com.ramilmammadov.ludoroyale",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/ludoroyale.png?v=20261007a",
+      "tags": [
+        "board",
+        "dice",
+        "family",
+        "classic",
+        "strategy"
+      ]
+    },
+    {
+      "id": 6819725547,
+      "name": "Slice Storm",
+      "sub": "Swipe, Cut & Dodge the Bombs",
+      "bundle": "com.ramilmammadov.slicestorm",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/slicestorm.png?v=20261007a",
+      "tags": [
+        "arcade",
+        "slice",
+        "action",
+        "fruit",
+        "casual"
+      ]
+    },
+    {
+      "id": 6819725052,
+      "name": "Fling Forts",
+      "sub": "Physics Puzzle Tower Crusher",
+      "bundle": "com.ramilmammadov.flingforts",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/flingforts.png?v=20261007a",
+      "tags": [
+        "physics",
+        "arcade",
+        "sling",
+        "destruction",
+        "casual"
+      ]
+    },
+    {
+      "id": 6819712562,
+      "name": "Royal Tiles",
+      "sub": "Crowns, Gems & Royal Puzzles",
+      "bundle": "com.ramilmammadov.royaltiles",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/royaltiles.png?v=20261007a",
+      "tags": [
+        "puzzle",
+        "match3",
+        "kingdom",
+        "casual",
+        "levels"
+      ]
+    },
+    {
+      "id": 6819703370,
+      "name": "Screw Rush",
+      "sub": "Unscrew, Sort & Clear Plates",
+      "bundle": "com.ramilmammadov.screwrush",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/screwrush.png?v=20261007a",
+      "tags": [
+        "puzzle",
+        "screw",
+        "sort",
         "physics",
         "casual"
       ]
     },
     {
-      "id": 6759198985,
-      "name": "Stack Master",
-      "sub": "Stack blocks into a giant tower",
-      "bundle": "com.stackmaster.app",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/54/fa/db54fa84-d447-a05e-4429-499380af14cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/256x256bb.jpg",
+      "id": 6819691889,
+      "name": "Block Bloom",
+      "sub": "Relaxing Block Brain Game",
+      "bundle": "com.ramilmammadov.blockbloom",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/blockbloom.png?v=20261007a",
       "tags": [
-        "arcade",
-        "stack",
-        "tap",
-        "casual"
+        "puzzle",
+        "block",
+        "relaxing",
+        "casual",
+        "brain"
       ]
     },
     {
-      "id": 6758597158,
-      "name": "Neon Dash",
-      "sub": "Fast neon endless runner",
-      "bundle": "com.rm.neondash",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/76/4a/29764ab9-d3b0-5591-7b52-25c27adadc54/AppIcon-0-0-1x_U007epad-0-1-85-220.png/256x256bb.jpg",
+      "id": 6819669075,
+      "name": "Gem Feast",
+      "sub": "Match 3, Sort & 2048 Gems",
+      "bundle": "com.ramilmammadov.gemfeast",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/gemfeast.png?v=20261007a",
       "tags": [
-        "arcade",
-        "runner",
-        "neon",
-        "action"
-      ]
-    },
-    {
-      "id": 6759008016,
-      "name": "Magic Pet Island",
-      "sub": "Raise cute magical pets",
-      "bundle": "com.magicpetisland.game",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/ea/e0/b3eae0de-326e-3bd5-4b75-6e43b2a57ce2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/256x256bb.jpg",
-      "tags": [
-        "pet",
-        "idle",
-        "simulation",
-        "casual"
-      ]
-    },
-    {
-      "id": 6759206581,
-      "name": "Rainbow Rescue",
-      "sub": "Fly and bring the colors back",
-      "bundle": "com.rainbowrescue.adventure",
-      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e1/ba/81/e1ba810b-0949-08fd-7d58-50b62e33d0fd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/256x256bb.jpg",
-      "tags": [
-        "arcade",
-        "flying",
-        "collect",
-        "casual"
+        "puzzle",
+        "merge",
+        "match3",
+        "gems",
+        "casual",
+        "sort"
       ]
     }
   ]
