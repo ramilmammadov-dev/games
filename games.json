@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820103214,
+      "name": "Skyburst",
+      "sub": "Tap Away Logic & Brain Teaser",
+      "bundle": "com.arrowpuzzle.skyburst",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/skyburst.png?v=1",
+      "tags": [
+        "puzzle",
+        "arrow",
+        "fireworks",
+        "logic",
+        "brain",
+        "casual"
+      ]
+    },
+    {
       "id": 6820084261,
       "name": "Pixel Harvest",
       "sub": "Crop Art Farm Puzzle Game",
