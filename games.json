@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820256749,
+      "name": "Dock Shift",
+      "sub": "Slide Containers, Sort Colors",
+      "bundle": "com.blockpuzzle.dockshift",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/dockshift.png?v=1",
+      "tags": [
+        "puzzle",
+        "blocks",
+        "sliding",
+        "logic",
+        "relaxing",
+        "casual"
+      ]
+    },
+    {
       "id": 6820216338,
       "name": "Zoned",
       "sub": "Build a Town, Solve the Grid",
