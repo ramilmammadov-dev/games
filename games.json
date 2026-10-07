@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820301160,
+      "name": "Postcards",
+      "sub": "Cozy Jigsaw With Living Scenes",
+      "bundle": "com.jigsawpuzzle.postcards",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/postcards.png?v=1",
+      "tags": [
+        "puzzle",
+        "jigsaw",
+        "solitaire",
+        "relaxing",
+        "casual",
+        "travel"
+      ]
+    },
+    {
       "id": 6820283589,
       "name": "Red String",
       "sub": "Sort Word Clues, Solve Cases",
