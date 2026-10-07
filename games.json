@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820216316,
+      "name": "Garage Boss",
+      "sub": "Idle Auto Repair & Tire Swap",
+      "bundle": "com.idletycoon.garageboss",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/garageboss.png?v=1",
+      "tags": [
+        "idle",
+        "tycoon",
+        "arcade",
+        "cars",
+        "management",
+        "casual"
+      ]
+    },
+    {
       "id": 6820146717,
       "name": "Lift Line",
       "sub": "Sort Skiers, Fill Gondolas",
