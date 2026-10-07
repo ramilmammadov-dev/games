@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820216338,
+      "name": "Zoned",
+      "sub": "Build a Town, Solve the Grid",
+      "bundle": "com.logicpuzzle.zoned",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/zoned.png?v=1",
+      "tags": [
+        "puzzle",
+        "logic",
+        "town",
+        "brain",
+        "queens",
+        "casual"
+      ]
+    },
+    {
       "id": 6820216316,
       "name": "Garage Boss",
       "sub": "Idle Auto Repair & Tire Swap",
