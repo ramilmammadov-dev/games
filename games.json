@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820283589,
+      "name": "Red String",
+      "sub": "Sort Word Clues, Solve Cases",
+      "bundle": "com.wordassociation.redstring",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/redstring.png?v=1",
+      "tags": [
+        "word",
+        "puzzle",
+        "detective",
+        "cards",
+        "brain",
+        "association"
+      ]
+    },
+    {
       "id": 6820256749,
       "name": "Dock Shift",
       "sub": "Slide Containers, Sort Colors",
