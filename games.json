@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820321809,
+      "name": "Swarm Rush",
+      "sub": "Multiply Ants, Flood the Hill",
+      "bundle": "com.crowdwar.swarmrush",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/swarmrush.png?v=1",
+      "tags": [
+        "crowd",
+        "ants",
+        "strategy",
+        "casual",
+        "war",
+        "arcade"
+      ]
+    },
+    {
       "id": 6820301160,
       "name": "Postcards",
       "sub": "Cozy Jigsaw With Living Scenes",
