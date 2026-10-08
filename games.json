@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820354605,
+      "name": "Orbit Siege",
+      "sub": "Swipe Ships, Capture Planets",
+      "bundle": "com.spacewar.orbitsiege",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/orbitsiege.png?v=1",
+      "tags": [
+        "space",
+        "strategy",
+        "conquest",
+        "casual",
+        "swipe",
+        "war"
+      ]
+    },
+    {
       "id": 6820336436,
       "name": "Bank Shot",
       "sub": "Trick Shots & 9 Ball Sprint",
