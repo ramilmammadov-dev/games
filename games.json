@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820336436,
+      "name": "Bank Shot",
+      "sub": "Trick Shots & 9 Ball Sprint",
+      "bundle": "com.billiards.bankshot",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/bankshot.png?v=1",
+      "tags": [
+        "pool",
+        "billiards",
+        "puzzle",
+        "sports",
+        "casual",
+        "skill"
+      ]
+    },
+    {
       "id": 6820321809,
       "name": "Swarm Rush",
       "sub": "Multiply Ants, Flood the Hill",
