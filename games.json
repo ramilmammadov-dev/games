@@ -1,6 +1,21 @@
 {
   "apps": [
     {
+      "id": 6820373033,
+      "name": "Scrap Match",
+      "sub": "Tap Junk, Crush 3 in a Row",
+      "bundle": "com.match3d.scrapmatch",
+      "icon": "https://ramilmammadov-dev.github.io/games/icons/scrapmatch.png?v=1",
+      "tags": [
+        "puzzle",
+        "match",
+        "3d",
+        "physics",
+        "casual",
+        "relaxing"
+      ]
+    },
+    {
       "id": 6820354605,
       "name": "Orbit Siege",
       "sub": "Swipe Ships, Capture Planets",
